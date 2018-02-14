@@ -1,0 +1,112 @@
+.board{
+	min-height:50px;
+	background-color:black;
+	color:white;
+}
+
+.men-list{
+	list-style: none;
+	align-items: center;
+}
+
+.men-list li{
+	float:left;
+	display:block;
+	padding:15px 25px 10px 25px;
+	
+}
+
+.men-list li:hover{
+	float:left;
+	display:block;
+	padding:15px 25px 10px 25px;
+	background-color: #ffae00;
+	
+}
+
+.top{
+	min-height:60px;
+	padding-left:20px;
+	color:#ffae00;
+}
+
+.cnt{
+	padding-top:15px;
+	padding-bottom:15px;
+}
+
+.search-list{
+
+    padding-bottom: 15px;
+}
+
+.radio-inline{
+	padding-right:30px;
+}
+
+.content-center{
+	text-align:center;
+}
+
+.feature-list{
+	
+	padding-top:15px;
+	padding-bottom:25px;
+	color:#868585;
+}
+
+.flex{
+	display:flex;
+	width:100%;
+}
+.icon{
+	color:#ffae00;
+}
+
+.full-width{
+	padding-right:0px;
+	padding-left:0px;
+}
+
+.jumbotron{
+	min-height:600px;
+	background-image:url('../images/jumbo1.jpg');
+	background-attachment: fixed;
+	
+}
+
+.navbar-right li a{
+	color:#ffae00;
+}
+
+.navbar-right li a:hover{
+	color:#ffae00;
+	background-color:black;
+}
+
+.footer-list{
+	list-style: none;
+	font-weight: 50px;
+	
+}
+.footer{
+	padding:10px;
+	background-color:black;
+	color:white;
+	margin-top:10px;
+}
+
+
+/* search list */
+
+.search-list{
+	min-height:20px;
+	margin-top:10px;
+	border-radius: 0px;
+}
+.name{
+	font-weight: bold;
+	color:#ffae00;
+	margin-top:0px;
+}
+
